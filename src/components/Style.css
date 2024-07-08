@@ -1,0 +1,13 @@
+.darkstyle{
+  background-color: black;
+  color: white;
+}
+
+.lightstyle{
+    background-color: white;
+    color: black;
+  }
+
+.card:hover {
+    box-shadow: 0 4px 8px gray;
+}
